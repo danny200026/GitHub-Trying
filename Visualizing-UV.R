@@ -1,4 +1,4 @@
-# STEP_1：繪製基本地圖 (1)
+123456# STEP_1：繪製基本地圖 (1)
 ### 1. 安裝套件(這一段會被執行)
 # 安裝"ggmap"套件
 if(!require(ggmap)) install.packages("ggmap")
